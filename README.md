@@ -12,3 +12,4 @@ Monte-Carlo simulation results for the 2 dimensional Ising model along with the 
 ![Monte_Carlo_Results](https://user-images.githubusercontent.com/43025445/189493379-50c35ff5-23d2-42cd-8950-2c57db613098.jpg)
 
 ## Tensor Network formulation
+![TN Ising Result](https://user-images.githubusercontent.com/43025445/190865191-087e5006-9e8b-4857-9ca6-2cc0391d940b.png)
