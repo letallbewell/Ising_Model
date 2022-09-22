@@ -15,9 +15,11 @@ $$Z = \sum_{\text{all states}} e^{-\beta H (\text{state})}.$$
 
 $\beta$ is the inverse temperature.
 
-The probability of a single state, $\text{Pr (state)} = \frac{e^{-\beta H (\text{state})}}{Z}$, following the fundamental assumption of statistical mechanics. With some pretty algebra, we can arrive at,
+The probability of a single state, $\text{Pr (state)} = \frac{e^{-\beta H (\text{state})}}{Z}$, following the fundamental assumption of statistical mechanics (that states all the microscopic configurations of an isolated system are equally likely) extended to systems in thermal equilibrium. With some pretty algebra, we can arrive at,
 
 $$ \text{Energy}, \langle E \rangle = -\frac{\partial}{\partial \beta} ln Z $$
+$$ \text{Specific heat capacity}, \langle C_{v} \rangle = -\frac{\partial}{\partial \T} \langle E \rangle $$
+
 
 ## Monte-Carlo Method
 
