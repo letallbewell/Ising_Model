@@ -76,7 +76,9 @@ It is not very hard to convince yourself that the contraction of such a tensor n
 **Add an example**
 
 $Z$, on itself, is not of much physical interest. You can calculate the free energy $F = -k_{B} T ln Z$ directly and the thermodynamic variables by taking numerical derivatives of $Z$.
+
 ![Free energy](https://user-images.githubusercontent.com/43025445/191744779-91d57dfb-61e2-49e6-8e6b-87615661868e.jpg)
+
 ![TN E and C](https://user-images.githubusercontent.com/43025445/191744812-3d4b31e8-2b90-4432-8f05-9dde4b28962a.jpg)
 
 To compute $M \text{ and } \chi$, we need to use a different tensor network that is lightly more complicated.
