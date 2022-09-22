@@ -70,9 +70,8 @@ S = \begin{bmatrix}
 $$
 For this symmetric matrix, we can take a matrix square root: $S^{root} = \sqrt{S}$. The tensor to be placed at at the lattice site is 
 
-$$
-T_{abcd} = S^{root}_{ia} S^{root}_{ib} S^{root}_{ic} S^{root}_{id}
-$$
+$$T_{abcd} = S_{ia}^{root} S_{ib}^{root} S_{ic}^{root} S_{id}^{root}$$
+
 It is not very hard to convince yourself that the contraction of such a tensor network yields the partition function for the Ising model with $h=0$. We will use Google's `Tensor Network` library to perform the contraction.
 **Add an example**
 
