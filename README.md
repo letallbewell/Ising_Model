@@ -77,9 +77,7 @@ It is relatively easy to convince yourself that the contraction of such a tensor
 
 $Z$, on itself, is not of much physical interest. You can directly calculate the free energy $F = -k_{B} T ln Z$ and the thermodynamic variables by taking numerical derivatives of $Z$.
 
-<center>
-    ![Free energy](https://user-images.githubusercontent.com/43025445/215698497-7ca5fbdd-6383-4951-95c5-9387e2c14134.jpg)
-</center>
+![Free energy](https://user-images.githubusercontent.com/43025445/215698497-7ca5fbdd-6383-4951-95c5-9387e2c14134.jpg)
 
 ![TN E and C](https://user-images.githubusercontent.com/43025445/215700202-90ed0de4-6c70-4d98-9765-623d176c3c03.jpg)
 
