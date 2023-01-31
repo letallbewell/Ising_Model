@@ -53,7 +53,7 @@ We generate an ensemble for $N = 8$ square lattice in $2d$ with $h = 0 \text{and
 
 ![Monte_Carlo_Equilibriated_Lattices](https://user-images.githubusercontent.com/43025445/189493373-4086e11a-47ef-40d2-bd60-900272930892.jpg)
 
-![Monte_Carlo_Results](https://user-images.githubusercontent.com/43025445/189493379-50c35ff5-23d2-42cd-8950-2c57db613098.jpg)
+![Monte_Carlo_Results](https://user-images.githubusercontent.com/43025445/215695844-2a5ae23b-0edf-4bd2-947d-d4253c8433f6.jpg)
 
 ## Tensor Network formulation
 
