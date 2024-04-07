@@ -62,12 +62,12 @@ Tensor network is an increasingly popular paradigm in computation that allows pa
 Luckily the tensor network corresponding to the Ising model corresponds to the topology of the spin-lattice itself, with matrices at nodes and edges corresponding to the contraction of indices.
 
 Let's make some definitions.
-$$
+```math
 S = \begin{bmatrix}
     e^{\beta} & e^{-\beta} \\
     e^{-\beta} & e^{\beta} \\
 \end{bmatrix}
-$$
+```
 We can take a matrix square root for this symmetric matrix: $S^{root} = \sqrt{S}$. The tensor to be placed at the lattice site is 
 
 $$T_{abcd} = S_{ia}^{root} S_{ib}^{root} S_{ic}^{root} S_{id}^{root}$$
